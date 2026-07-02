@@ -1,4 +1,4 @@
-# AYONIQ
+# AYONIQ™
 
 > **Building the Future of Intelligent Software**
 
