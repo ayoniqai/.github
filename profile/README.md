@@ -53,7 +53,7 @@ contact@ayoniq.org
 
 AYONIQ is the brand name used for our technology products and services.
 
-Trademark registration status: Planned.
+Trademark registration status: Pending.
 
 ---
 
