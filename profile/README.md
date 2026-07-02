@@ -8,11 +8,8 @@ AYONIQ is a Bangladeshi artificial intelligence (AI) research organization focus
 
 ## 🚀 Products
 
-- AYONIQ Pay
-- AYONIQ AI
-- AYONIQ Identity
-- AYONIQ Cloud
-- AYONIQ SDK *(Coming Soon)*
+- AYONIQPAY
+
 
 ---
 
