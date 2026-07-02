@@ -2,9 +2,7 @@
 
 > **Building the Future of Intelligent Software**
 
-AYONIQ is an open technology company building intelligent software platforms for AI, Payments, Identity, Cloud, Automation, and Developer Tools.
-
-Our mission is to build secure, scalable, and intelligent technologies that empower businesses and developers worldwide.
+AYONIQ is a Bangladeshi artificial intelligence (AI) research organization focused on advancing AI through open research, open-source software, and intelligent technology platforms. The organization develops AI models, software, and foundational technology infrastructure for artificial intelligence, automation, and developer tools.
 
 ---
 
